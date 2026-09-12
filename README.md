@@ -34,19 +34,19 @@ Using SQL, these tables can be connected and analyzed to turn raw business data 
 ## Database Structure
 The project contains **7 main tables**:
 Customers
-    ↓
+    ->
   Orders
-    ↓
+    ->
 Order Items
-    ↓
+    ->
  Products
-
+and 
 Orders
-    ↓
+    ->
 Payments
 
 Customers
-    ↓
+    ->
 Support Tickets
 
 Employees
